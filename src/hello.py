@@ -2,7 +2,7 @@
 Created on 4 mars 2013
 
 un premier programme python pour tester la configuration correcte de pydev sous eclipse
-V1
+V1.1
 @author: François de Bertrand de Beuvron (INSA Strasbourg)
 '''
 
